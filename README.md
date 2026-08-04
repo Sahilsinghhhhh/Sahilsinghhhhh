@@ -1,8 +1,8 @@
 # Hey, I'm Sahil...
 
-Frontend Developer
-UI Designer
-Game Developer
+• Frontend Developer
+• UI Designer
+• Game Developer
 
 ## Currently building
 • Premium Web Experiences
@@ -14,16 +14,16 @@ Game Developer
 • Backend Development
 
 ## Tech Stack -
-React
-TypeScript
-JavaScript
-GSAP
-Lenis
-Vite
-HTML
-CSS
+• React
+• TypeScript
+• JavaScript
+• GSAP
+• Lenis
+• Vite
+• HTML
+• CSS
 
 ## Currently Reading -
-Eloquent JavaScript
+• Eloquent JavaScript
 
 **(I LOVE GAMESSS)**
