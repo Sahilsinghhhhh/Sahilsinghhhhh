@@ -1,19 +1,19 @@
-Hey, I'm Sahil...
+# Hey, I'm Sahil...
 
 Frontend Developer
 UI Designer
 Game Developer
 
-Currently building
+## Currently building
 • Premium Web Experiences
 • Games
 
-Currently Learning
+## Currently Learning
 • Godot
 • Three.js
 • Backend Development
 
-Tech Stack -
+## Tech Stack -
 React
 TypeScript
 JavaScript
@@ -23,7 +23,7 @@ Vite
 HTML
 CSS
 
-Currently Reading -
+## Currently Reading -
 Eloquent JavaScript
 
-(I LOVE GAMESSS)
+**(I LOVE GAMESSS)**
