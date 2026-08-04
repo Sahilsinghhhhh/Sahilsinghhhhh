@@ -1,5 +1,6 @@
 # Hey, I'm Sahil... 
 I'm a self-taught developer who enjoys designing and engineering products from the ground up.
+
 I'm currently focused on modern frontend development while exploring graphics programming and game development.
 
  ---
