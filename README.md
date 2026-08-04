@@ -18,7 +18,7 @@ I'm currently focused on modern frontend development while exploring graphics pr
 • Backend Development
 
 ## Tech Stack -
-• React
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 • TypeScript
 • JavaScript
 • GSAP
