@@ -1,16 +1,29 @@
-## Hi there 👋
+Hey, I'm Sahil...
 
-<!--
-**Sahilsinghhhhh/Sahilsinghhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer
+UI Designer
+Game Developer
 
-Here are some ideas to get you started:
+Currently building
+• Premium Web Experiences
+• Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+• Godot
+• Three.js
+• Backend Development
+
+Tech Stack -
+React
+TypeScript
+JavaScript
+GSAP
+Lenis
+Vite
+HTML
+CSS
+
+Currently Reading -
+Eloquent JavaScript
+
+(I LOVE GAMESSS)
